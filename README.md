@@ -4,3 +4,4 @@ Projeto do curso da Alura "C#: consumindo API, gravando arquivos e utilizando o 
 - Manipular os dados de forma elegante com LINQ
 - Entender como criar arquivos JSON ou TXT com C# de forma prática
 - Manipular os campos de uma API atribuindo a uma propriedade
+🪻💜
